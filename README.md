@@ -1,5 +1,10 @@
-# Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 🚀 Algorithm Study Notes
+백준 및 프로그래머스 문제 풀이 기록 저장소입니다.
 
-### 백준 : 2025-03-27 ~ 
-### 프로그래머스 : 2026-03-17 ~
+## 📅 학습 현황
+| 플랫폼 | 시작일 
+| :--- | :--- 
+| **Baekjoon** | 2025-03-27
+| **Programmers** | 2026-03-17
+
+---
